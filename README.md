@@ -62,7 +62,7 @@ At level 20, the journey takes a meaningful turn with a fully implemented mount 
 
 Argus does not replace Vanilla content. It reworks it from within.
 
-Take the iconic The Deadmines. The dungeon remains visually and structurally identical, preserving its identity and nostalgia. But the encounters have been rebalanced, with stronger bosses and a completely revised loot table. The result is a dungeon that demands more from the player and rewards that effort accordingly.
+Take the iconic Deadmines. The dungeon remains visually and structurally identical, preserving its identity and nostalgia. But the encounters have been rebalanced, with stronger bosses and a completely revised loot table. The result is a dungeon that demands more from the player and rewards that effort accordingly.
 
 In parallel, new questlines have been introduced to expand the world’s logic. Horde players, for example, are now given a reason to venture into hostile territories early on, adding tension, risk, and a sense of discovery that Vanilla only hinted at.
 
