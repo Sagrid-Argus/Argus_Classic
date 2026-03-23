@@ -134,9 +134,10 @@ Go to the "install" folder and start in this order:
 
 ## [ FIRST LAUNCH NOTE ]
 
-The first startup may take several minutes. This is normal (bot initialization). Next launches will be much faster.
+The first startup may take several minutes. This is normal (bot initialization). 
+Next launches will be much faster.
 
-A GM account is already created
+A GM account is already created :
 
 Login : Admin
 Password : Admin
