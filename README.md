@@ -91,7 +91,6 @@ By playing Argus, you are not just consuming content. You are participating in t
 ## Why Argus?
 
 Because Vanilla remains one of the most compelling RPG experiences ever created, but its original constraints no longer fit every player.
-
 Argus removes those constraints without removing the soul of the game.
 
 It is Vanilla, made accessible.
