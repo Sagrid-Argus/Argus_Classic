@@ -23,7 +23,7 @@ Every time Argus is started, the world begins from the same point: level 1, for 
 
 Players and bots alike enter the world simultaneously, recreating the feeling of a true “fresh server”. Early zones are alive, progression is synchronized, and the sense of starting a new journey is preserved in its purest form.
 
-This is not a one-time event tied to a launch window. It is a core design principle. Each new session restores that initial momentum, where every step forward matters and every level is earned within a shared, evolving environment.
+This is a core design principle tied to server initialization. When a server is started, the world begins at level 1 for all players and bots, creating a fresh environment, while the server progression is fully preserved between sessions.
 
 <img width="1919" height="1079" alt="Capture d&#39;écran 2026-03-23 134322" src="https://github.com/user-attachments/assets/1342f28e-ec76-4c7d-b562-155d24988d59" />
 
