@@ -1,3 +1,7 @@
+## LATEST RELEASE : ##
+
+<img width="1536" height="1024" alt="Turtle Week Logo" src="https://github.com/user-attachments/assets/ca5236ae-a75b-46c3-8457-0307ceb72e52" />
+
 ## ARGUS, YOUR OWN WOW CLASSIC ##
 
 <img width="1428" height="750" alt="Capture d&#39;écran 2026-01-23 001645" src="https://github.com/user-attachments/assets/d70ac749-30ec-4cf2-a8b6-9fb174181a37" />
