@@ -120,6 +120,10 @@ Then copy realmlist.wtf Into Your WoW root folder (where Wow.exe is located).
 <img width="406" height="427" alt="image" src="https://github.com/user-attachments/assets/e64cc733-196a-4802-8613-93c57272684a" />
 <img width="409" height="421" alt="image" src="https://github.com/user-attachments/assets/979138e7-7a15-49d7-aab3-9e92a3ba36ff" />
 
+New as for patch 1.2.5, you also have a new client binary to start the game, Argus.exe. Make sure to start the game with it! (mandatory)
+
+<img width="269" height="272" alt="Capture d&#39;écran 2026-06-13 081741" src="https://github.com/user-attachments/assets/7ac5feda-3c90-43aa-b171-1a2b549220c9" />
+
 ## (2) DATABASE
 
 Go to the "database" folder and run: "start-server.bat".
@@ -136,6 +140,39 @@ Go to the "install" folder and start in this order:
 
 <img width="405" height="50" alt="image" src="https://github.com/user-attachments/assets/cecf3cba-70b6-4c01-afdb-03a399a0dac4" />
 
+
+New as of patch 1.2.0 :
+
+## **Launcher (Beta)**
+
+A new launcher has been introduced in beta form.
+
+<img width="425" height="445" alt="image" src="https://github.com/user-attachments/assets/40a33e00-1028-4b82-aed3-93bfc2f01407" />
+
+Current features include: Server startup, Progression saving (player characters and bots), Server updating.
+A “fresh server” backup is included and can be loaded at any time, allowing a complete restart without requiring a full reinstallation.
+
+<img width="451" height="155" alt="image" src="https://github.com/user-attachments/assets/1fe9f4ec-44ea-4bcd-8ffb-a30100244aad" />
+
+An update package is also provided for existing users who wish to upgrade their current server without starting over.
+
+<img width="452" height="159" alt="image" src="https://github.com/user-attachments/assets/f1ef5638-b768-42c5-a3f1-dc47e23cbc08" />
+
+Note for existing users who wish to continue with their current save:
+You can download the “Light Pack” and place the Argus Launcher in your server root folder, along with the “savegame” and “update” directories. Then run the provided update and copy the new patch-s.mpq file into your client’s Data folder.
+
+### **Server Structure Update**
+
+The server folder structure has been reorganized to support the new systems.
+
+A savegame folder now contains all user-created backups, which can be loaded as needed.
+An update folder allows for easy integration of future patch files.
+
+This structure is designed to simplify long-term server management and iteration.
+
+<img width="381" height="178" alt="image" src="https://github.com/user-attachments/assets/3032a6dc-d602-495f-9803-c31f59b04e68" />
+
+
 ## [ FIRST LAUNCH NOTE ]
 
 The first startup may take several minutes. This is normal (bot initialization). 
@@ -148,7 +185,7 @@ Password : Admin
 
 You can connect on it and start the game right away.
 
-<img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/ea8260d7-39f9-4e14-b742-2b8e785e44d0" />
+<img width="1919" height="952" alt="Capture d&#39;écran 2026-06-13 093508" src="https://github.com/user-attachments/assets/b15703b1-2eb7-441d-a5c5-1a4c5119ceab" />
 
 ## [ IMPORTANT - SHUTDOWN PROCEDURE ]
 
@@ -159,7 +196,7 @@ Do NOT close windows using the "X".
 Recommended method:
 
 1. In-game chat: type with your character .server shutdown 0 (or: .ser shut 0)
-2. Close WoW normally
+2. Close the client normally
 3. Wait for mangosd.exe window to close automatically
 4. In realmd.exe window do : Ctrl + C
-5. In database window, do : Ctrl + C, Then press: o and Enter.
+5. In database window, do : Ctrl + C, Then press: y and Enter.
