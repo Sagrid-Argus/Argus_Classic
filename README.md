@@ -1,7 +1,6 @@
-## LATEST RELEASE : ##
+## SOON : June 23rd ##
 
-<img width="1536" height="1024" alt="Turtle Week Logo" src="https://github.com/user-attachments/assets/ca5236ae-a75b-46c3-8457-0307ceb72e52" />
-https://github.com/Sagrid-Argus/Argus_Classic/releases/tag/Argus_Classic_v1.2.0
+<img width="1536" height="1024" alt="HardcoreMode" src="https://github.com/user-attachments/assets/327f529a-8dab-4cf0-bdc3-cd5d4c4fc350" />
 
 ## ARGUS, YOUR OWN WOW CLASSIC ##
 
