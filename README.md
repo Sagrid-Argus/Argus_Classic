@@ -1,4 +1,4 @@
-## SOON : June 23rd ##
+## Next Patch Release : June 23rd ##
 
 <img width="1536" height="1024" alt="HardcoreMode" src="https://github.com/user-attachments/assets/327f529a-8dab-4cf0-bdc3-cd5d4c4fc350" />
 
