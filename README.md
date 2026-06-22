@@ -1,6 +1,7 @@
-## Next Patch Release : June 23rd ##
+## Last Patch Release : June 23rd ##
 
 <img width="1536" height="1024" alt="HardcoreMode" src="https://github.com/user-attachments/assets/327f529a-8dab-4cf0-bdc3-cd5d4c4fc350" />
+https://github.com/Sagrid-Argus/Argus_Classic/releases/tag/Argus_Classic_v1.2.5
 
 ## ARGUS, YOUR OWN WOW CLASSIC ##
 
