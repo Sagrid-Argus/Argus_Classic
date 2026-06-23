@@ -121,7 +121,7 @@ Then copy realmlist.wtf Into Your WoW root folder (where Wow.exe is located).
 <img width="406" height="427" alt="image" src="https://github.com/user-attachments/assets/e64cc733-196a-4802-8613-93c57272684a" />
 <img width="409" height="421" alt="image" src="https://github.com/user-attachments/assets/979138e7-7a15-49d7-aab3-9e92a3ba36ff" />
 
-New as for patch 1.2.5, you also have a new client binary to start the game, Argus.exe. Make sure to start the game with it! (mandatory)
+New as for patch 1.2.5, you also have a new client binary to start the game, Argus.exe. Make sure to copy it into your client folder and start the game with it! (mandatory)
 
 <img width="269" height="272" alt="Capture d&#39;écran 2026-06-13 081741" src="https://github.com/user-attachments/assets/7ac5feda-3c90-43aa-b171-1a2b549220c9" />
 
