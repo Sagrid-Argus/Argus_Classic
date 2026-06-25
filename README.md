@@ -3,7 +3,7 @@
 <img width="1536" height="1024" alt="HardcoreMode" src="https://github.com/user-attachments/assets/327f529a-8dab-4cf0-bdc3-cd5d4c4fc350" />
 https://github.com/Sagrid-Argus/Argus_Classic/releases/tag/Argus_Classic_v1.2.5
 
-## ARGUS, YOUR OWN WOW CLASSIC ##
+## ARGUS, YOUR OWN WOW CLASSIC + ##
 
 <img width="1428" height="750" alt="Capture d&#39;écran 2026-01-23 001645" src="https://github.com/user-attachments/assets/d70ac749-30ec-4cf2-a8b6-9fb174181a37" />
 
