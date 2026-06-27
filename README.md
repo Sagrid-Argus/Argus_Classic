@@ -115,6 +115,7 @@ _Sagrid_
 ## (1) CLIENT SETUP
 
 You will need your own copy of the 1.12.1 World of Warcraft Client.
+https://drive.google.com/file/d/17jJUAH03sAfcxdfhuBEWqlGkYe46fokP/view?usp=sharing
 Copy patch-s.mpq Into World of Warcraft\Data\ ;
 Then copy realmlist.wtf Into Your WoW root folder (where Wow.exe is located).
 
