@@ -1,3 +1,13 @@
+<img width="1919" height="713" alt="Seeya" src="https://github.com/user-attachments/assets/dce5cda2-193d-4796-966b-c288621b21db" />
+
+July 6, 2026: As some of you may already know, I'm moving to the other side of the country! Development will be a bit slower for the next few weeks while I get everything settled.
+In the meantime, I hope you'll have plenty of fun with the latest update!
+
+See you all in a few weeks once I'm all set.
+
+Enjoy,
+Sagrid
+
 ## Last Patch Release : June 23rd ##
 
 <img width="1536" height="1024" alt="HardcoreMode" src="https://github.com/user-attachments/assets/327f529a-8dab-4cf0-bdc3-cd5d4c4fc350" />
