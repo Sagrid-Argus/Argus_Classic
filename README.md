@@ -1,9 +1,6 @@
-<img width="1919" height="713" alt="Seeya" src="https://github.com/user-attachments/assets/dce5cda2-193d-4796-966b-c288621b21db" />
+<img width="1672" height="941" alt="Roadmap 2027" src="https://github.com/user-attachments/assets/7fe63a27-567f-453c-9b72-8f6fcdd732a6" />
 
-July 6, 2026: As some of you may already know, I'm moving to the other side of the country! Development will be a bit slower for the next few weeks while I get everything settled.
-In the meantime, I hope you'll have plenty of fun with the latest update!
-
-See you all in a few weeks once I'm all set.
+July 20, 2026: I'm finally set in my new home! Here is the roadmap for Argus, i hope you'll enjoy the upcoming features!
 
 Enjoy,
 Sagrid
