@@ -1,16 +1,8 @@
-<img width="1672" height="941" alt="Roadmap 2027" src="https://github.com/user-attachments/assets/7fe63a27-567f-453c-9b72-8f6fcdd732a6" />
+## PATCH 1.3.0 RELEASE DATE ##
 
-July 20, 2026: I'm finally set in my new home! Here is the roadmap for Argus, i hope you'll enjoy the upcoming features!
+<img width="1624" height="941" alt="WC Release" src="https://github.com/user-attachments/assets/191c2447-89a8-409a-ac73-5b50c484e635" />
 
-Enjoy,
-Sagrid
-
-## Last Patch Release : June 23rd ##
-
-<img width="1536" height="1024" alt="HardcoreMode" src="https://github.com/user-attachments/assets/327f529a-8dab-4cf0-bdc3-cd5d4c4fc350" />
-https://github.com/Sagrid-Argus/Argus_Classic/releases/tag/Argus_Classic_v1.2.5
-
-## ARGUS, YOUR OWN WOW CLASSIC + ##
+## ARGUS, YOUR OWN WOW CLASSIC +, FREE, FOREVER ##
 
 <img width="1428" height="750" alt="Capture d&#39;écran 2026-01-23 001645" src="https://github.com/user-attachments/assets/d70ac749-30ec-4cf2-a8b6-9fb174181a37" />
 
@@ -122,8 +114,6 @@ _Sagrid_
 ## (1) CLIENT SETUP
 
 You will need your own copy of the 1.12.1 World of Warcraft Client.
-
-https://drive.google.com/file/d/17jJUAH03sAfcxdfhuBEWqlGkYe46fokP/view?usp=sharing
 
 Copy patch-s.mpq Into World of Warcraft\Data\ ;
 Then copy realmlist.wtf Into Your WoW root folder (where Wow.exe is located).
