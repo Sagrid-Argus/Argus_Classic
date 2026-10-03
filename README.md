@@ -4,7 +4,7 @@
 
 ## ARGUS, YOUR OWN WOW CLASSIC +, FREE, FOREVER ##
 
-<img width="1024" height="1024" alt="ArgusLogo" src="https://github.com/user-attachments/assets/6674055b-513f-41c7-bfa8-ff1b18db817d" />
+<img width="1919" height="1079" alt="Argus" src="https://github.com/user-attachments/assets/f82b42a2-e7cd-4902-a459-fdfffb9d6720" />
 
 ## What is Argus?
 
