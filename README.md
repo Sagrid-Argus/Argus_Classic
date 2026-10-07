@@ -1,6 +1,6 @@
-## PATCH 1.3.0 RELEASE DATE ##
+## PATCH 1.3.0 RELEASED!
 
-<img width="1624" height="941" alt="WC Release" src="https://github.com/user-attachments/assets/191c2447-89a8-409a-ac73-5b50c484e635" />
+<img width="1669" height="939" alt="Capture d&#39;écran 2026-10-07 235551" src="https://github.com/user-attachments/assets/3a6440f1-d523-41fc-ab16-3054138fca8c" />
 
 ## ARGUS, YOUR OWN WOW CLASSIC +, FREE, FOREVER ##
 
