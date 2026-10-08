@@ -2,6 +2,8 @@
 
 <img width="1669" height="939" alt="Capture d&#39;écran 2026-10-07 235551" src="https://github.com/user-attachments/assets/3a6440f1-d523-41fc-ab16-3054138fca8c" />
 
+https://github.com/Sagrid-Argus/Argus_Classic/releases/tag/Argus_Classic_v1.3.0
+
 ## ARGUS, YOUR OWN WOW CLASSIC +, FREE, FOREVER ##
 
 <img width="1919" height="1079" alt="Argus" src="https://github.com/user-attachments/assets/f82b42a2-e7cd-4902-a459-fdfffb9d6720" />
